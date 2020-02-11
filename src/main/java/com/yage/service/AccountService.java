@@ -11,7 +11,6 @@ import java.util.List;
  */
 public interface AccountService {
 
-
     /**
      * 查询所有
      * @return
